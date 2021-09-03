@@ -8,14 +8,6 @@ h1, h4, p {
   color: #AAAAAA;
 }
 
-a, a:visited{
-  color: white;
-}
-
-a:hover{
-  color:gray;
-}
-
 .header {
     display: table;
     position: relative;
@@ -49,7 +41,8 @@ a:hover{
   margin-bottom: 30px;  
 }
 
-.album-photo {
+.photo {
   border: 1px solid black;
   border-radius: 2%;
+  height: 400px;
 }
